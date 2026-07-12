@@ -3,7 +3,7 @@
 
 This file describes a basic walking motion algorithm for a humanoid robot.
 
-## 🧠 Algorithm Overview
+## Algorithm Overview
 
 The walking process is broken down into multiple stages:
 
